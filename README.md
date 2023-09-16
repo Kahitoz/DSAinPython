@@ -2,4 +2,4 @@
 
 # Date -> 17th September 
 Theories done - 
-Lists, Tuples, Dicitionary, Sets
+Lists, Tuples, Dicitionary, Sets, Stacks
