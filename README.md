@@ -1,5 +1,9 @@
 # Speedrunning DSA in Python Programming Language
 
-# Date -> 17th September 2023
+# Date -> 17th September 
 Theories done - 
-Lists, Tuples, Dicitionary, Sets, Stacks
+Lists, -> Square Bracket // mutable
+Tuples, -> Curly Bracket // Immutable
+Dicitionary,-> {Key: Values} // mutable
+Sets, -> set() // mutable // no repeated values
+Stacks -> Can use List, push --> append , pop
