@@ -18,3 +18,6 @@ s1.append(30)
 s1.append(40)
 print(s1)
 print("Popped Value = :", s1.pop())
+
+# Checking for its type
+print(not s1)
