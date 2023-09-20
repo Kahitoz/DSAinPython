@@ -7,3 +7,6 @@ Tuples, -> Curly Bracket // Immutable
 Dicitionary,-> {Key: Values} // mutable
 Sets, -> set() // mutable // no repeated values
 Stacks -> Can use List, push --> append , pop
+
+# Date -> 20th September
+Queue
