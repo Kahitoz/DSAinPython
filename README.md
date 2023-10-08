@@ -10,3 +10,7 @@ Stacks -> Can use List, push --> append , pop
 
 # Date -> 20th September
 Queue Follows FIFO OR LIFO  Elements adding is done from the rear end Removing is done from frontOperation -> Enqueue and Dequeue, isFull, isEmpty Enqueue -> append method, dequeue -> pop method: list.pop(0)
+
+# Priority Queue
+In Priority the elements are the basis of its priority
+Best Method is to import the Priority Queue instead of using the sort method
