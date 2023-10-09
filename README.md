@@ -14,3 +14,7 @@ Queue Follows FIFO OR LIFO  Elements adding is done from the rear end Removing i
 # Priority Queue
 In Priority the elements are the basis of its priority
 Best Method is to import the Priority Queue instead of using the sort method
+
+# Linked List
+Three types - Singly, Double and circular
+Singly Linked List -> Node have two parts, data and next. node.data -> Will give the value of the node while printing node simply will only give you the memory reference of that object
