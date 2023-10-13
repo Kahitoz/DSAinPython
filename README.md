@@ -27,3 +27,5 @@ To add the elements in the end of the linked list first we need to reach at the 
 To add the elemenet at a given position first you need to find the length of the linked list and check weather the position given is valide or not if it is valid then run a while loop so that the pointers positon is equal to the postion of that wanted nodes position. After that new_node.next should point to pointer.next and then the next of the ponter should point to the new_node.
 # Deleting Elements from the front
 To delete the front node lets make a copy of the head , next move the pointer to the next position now equate head to the pointer. 
+# Delete Element From last
+Reach to the second last node and point its next to None.
