@@ -29,3 +29,20 @@ To add the elemenet at a given position first you need to find the length of the
 To delete the front node lets make a copy of the head , next move the pointer to the next position now equate head to the pointer. 
 # Delete Element From last
 Reach to the second last node and point its next to None.
+
+# Doubly Linked List
+It has a two essential component namely head and a tail
+The ending node is ofen denotes as a tail
+The front node is the head of the list
+It has two ponters namely next and prev
+for head prev is null
+next gives the reference of the next node from the current node
+prev gives the refenece of the node before the current node
+
+# Circular linked list
+The previous of the head is referenced to the tail of the linked list which forms a loop ofen known as the circular linked list
+
+# Binary tree
+It has two a parent root followed by their childern
+two pointers namely - left and a right
+Each parant can have a maximum of two children to be called binary
